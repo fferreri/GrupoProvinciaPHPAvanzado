@@ -22,6 +22,16 @@ Recursos para el curso de PHP Avanzado dictado en Grupo Provincia (Agosto y Sept
 * [PSR-4](http://www.php-fig.org/psr/psr-4/) : Autoloading
 * [PSR-7](http://www.php-fig.org/psr/psr-7/) : Interface de mensaje HTTP
 
+## Sitios interesantes
+
+* http://culttt.com/2013/03/25/what-are-php-lambdas-and-closures/
+* http://php.net/manual/en/functions.anonymous.php
+* http://fabien.potencier.org/on-php-5-3-lambda-functions-and-closures.html
+* http://codesamplez.com/programming/php-closure-tutorial
+* http://www.phpro.org/tutorials/Lambdas-Anonymous-Functions-Closures-With-PHP.html
+* https://github.com/jeremeamia/super_closure
+
+
 ## Misc
 
 * http://choosealicense.com/
