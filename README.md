@@ -12,6 +12,7 @@ Recursos para el curso de PHP Avanzado dictado en Grupo Provincia (Agosto y Sept
 
 * [Carbon](http://carbon.nesbot.com/) : A simple PHP API extension for DateTime.
 * [Guzzle](http://guzzlephp.org/) : Guzzle is a PHP HTTP client that makes it easy to send HTTP requests and trivial to integrate with web services.
+* [The League of Extraordinary Packages](https://thephpleague.com/) : Componentes de excelente calidad
 
 ## PHP-FIG / PSR
 
@@ -21,6 +22,16 @@ Recursos para el curso de PHP Avanzado dictado en Grupo Provincia (Agosto y Sept
 * [PSR-3](http://www.php-fig.org/psr/psr-2/es/) : Interface de logger
 * [PSR-4](http://www.php-fig.org/psr/psr-4/) : Autoloading
 * [PSR-7](http://www.php-fig.org/psr/psr-7/) : Interface de mensaje HTTP
+
+## Sitios relacionados a Laravel
+[Laracasts](https://laracasts.com/) : THE BEST PHP SCREENCASTS ON THE WEB
+[Laravel News](https://laravel-news.com/) : Every week lots of tips, tutorials, and packages are released for Laravel
+
+## Utilitarios
+
+* [PHPCI](https://www.phptesting.org/) : Free and open source continuous integration specifically designed for PHP
+* [Travis CI](https://travis-ci.org/) : Test and Deploy your Code with Confidence
+
 
 ## Sitios interesantes
 
