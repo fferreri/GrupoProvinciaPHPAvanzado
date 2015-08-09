@@ -37,6 +37,7 @@ Recursos para el curso de PHP Avanzado dictado en Grupo Provincia (Agosto y Sept
 
 ## Sitios interesantes
 
+* https://github.com/ziadoz/awesome-php#dependency-management
 * http://culttt.com/2013/03/25/what-are-php-lambdas-and-closures/
 * http://php.net/manual/en/functions.anonymous.php
 * http://fabien.potencier.org/on-php-5-3-lambda-functions-and-closures.html
