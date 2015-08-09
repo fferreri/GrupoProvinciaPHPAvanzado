@@ -24,8 +24,10 @@ Recursos para el curso de PHP Avanzado dictado en Grupo Provincia (Agosto y Sept
 * [PSR-7](http://www.php-fig.org/psr/psr-7/) : Interface de mensaje HTTP
 
 ## Sitios relacionados a Laravel
-[Laracasts](https://laracasts.com/) : THE BEST PHP SCREENCASTS ON THE WEB
-[Laravel News](https://laravel-news.com/) : Every week lots of tips, tutorials, and packages are released for Laravel
+
+* [Laracasts](https://laracasts.com/) : THE BEST PHP SCREENCASTS ON THE WEB
+* [Laravel News](https://laravel-news.com/) : Every week lots of tips, tutorials, and packages are released for Laravel
+* [Laravel.IO](http://laravel.io/) : The Laravel Community 
 
 ## Utilitarios
 
