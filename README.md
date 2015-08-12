@@ -10,21 +10,21 @@ Recursos para el curso de PHP Avanzado dictado en Grupo Provincia (Agosto y Sept
 * [Introduccion a Git (presentación)](http://mgaitan.github.io/intro-git/index.html#/step-1)
 
 ## Testing y deployment
+
 ### Tools
 * [Rocketeer](http://rocketeer.autopergamene.eu/#/docs/rocketeer/README)
-* [Magallanes([http://magephp.com/)
+* [Magallanes]([http://magephp.com/)
 * [Deployer](http://deployer.org/)
 * [Receta](https://gist.github.com/oodavid/1809044)
 * [Receta](https://github.com/markomarkovic/simple-php-git-deploy)
 
 ### Servicios (SaaS/PaaS)
-[Envoyer](https://envoyer.io/)
-[Semaphore CI](https://semaphoreci.com/)
-[Codeship](https://codeship.io/)
-[Circle CI](https://circleci.com/)
-[Continuous PHP](https://continuousphp.com/)
-[PHP CI (solo testing)](https://www.phptesting.org/)
-
+* [Envoyer](https://envoyer.io/)
+* [Semaphore CI](https://semaphoreci.com/)
+* [Codeship](https://codeship.io/)
+* [Circle CI](https://circleci.com/)
+* [Continuous PHP](https://continuousphp.com/)
+* [PHP CI (solo testing)](https://www.phptesting.org/)
 
 ## Composer
 
