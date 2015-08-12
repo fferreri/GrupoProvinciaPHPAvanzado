@@ -15,8 +15,8 @@ Recursos para el curso de PHP Avanzado dictado en Grupo Provincia (Agosto y Sept
 * [Rocketeer](http://rocketeer.autopergamene.eu/#/docs/rocketeer/README)
 * [Magallanes](http://magephp.com/)
 * [Deployer](http://deployer.org/)
-* [Receta](https://gist.github.com/oodavid/1809044)
-* [Receta](https://github.com/markomarkovic/simple-php-git-deploy)
+* [Receta de deplyment 1](https://gist.github.com/oodavid/1809044)
+* [Receta de deplyment 2](https://github.com/markomarkovic/simple-php-git-deploy)
 
 ### Servicios (SaaS/PaaS)
 * [Envoyer](https://envoyer.io/)
