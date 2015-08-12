@@ -2,6 +2,30 @@
 
 Recursos para el curso de PHP Avanzado dictado en Grupo Provincia (Agosto y Septiembre 2015)
 
+## GIT
+* [Tutoriales sobre Git en Atlassian](https://www.atlassian.com/git/)
+* [Git Book](https://git-scm.com/book/en/v2)
+* [Try Git](https://try.github.io/levels/1/challenges/1)
+* [Git Cheat Sheet](https://training.github.com/kit/downloads/es/github-git-cheat-sheet.pdf)
+* [Introduccion a Git (presentación)](http://mgaitan.github.io/intro-git/index.html#/step-1)
+
+## Testing y deployment
+### Tools
+* (Rocketeer)[http://rocketeer.autopergamene.eu/#/docs/rocketeer/README]
+* (Magallanes)[http://magephp.com/]
+* (Deployer)[http://deployer.org/]
+* (Receta)[https://gist.github.com/oodavid/1809044]
+* (Receta)[https://github.com/markomarkovic/simple-php-git-deploy]
+
+### Servicios (SaaS/PaaS)
+[Envoyer](https://envoyer.io/)
+[Semaphore CI](https://semaphoreci.com/)
+[Codeship](https://codeship.io/)
+[Circle CI](https://circleci.com/)
+[Continuous PHP](https://continuousphp.com/)
+[PHP CI (solo testing)](https://www.phptesting.org/)
+
+
 ## Composer
 
 * [Composer](https://getcomposer.org/) : Dependency Manager for PHP
