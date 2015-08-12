@@ -11,11 +11,11 @@ Recursos para el curso de PHP Avanzado dictado en Grupo Provincia (Agosto y Sept
 
 ## Testing y deployment
 ### Tools
-* (Rocketeer)[http://rocketeer.autopergamene.eu/#/docs/rocketeer/README]
-* (Magallanes)[http://magephp.com/]
-* (Deployer)[http://deployer.org/]
-* (Receta)[https://gist.github.com/oodavid/1809044]
-* (Receta)[https://github.com/markomarkovic/simple-php-git-deploy]
+* [Rocketeer](http://rocketeer.autopergamene.eu/#/docs/rocketeer/README)
+* [Magallanes([http://magephp.com/)
+* [Deployer](http://deployer.org/)
+* [Receta](https://gist.github.com/oodavid/1809044)
+* [Receta](https://github.com/markomarkovic/simple-php-git-deploy)
 
 ### Servicios (SaaS/PaaS)
 [Envoyer](https://envoyer.io/)
